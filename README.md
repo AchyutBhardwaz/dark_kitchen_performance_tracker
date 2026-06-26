@@ -301,15 +301,15 @@ This dashboard enables stakeholders to:
 
 # Data Model Preview
 
-![Overview Dashboard](Images/Project Data Model.png)
+![Overview Dashboard](Images/project_data_model.png)
 
 # 📸 Dashboard Preview
 
-![Overview Dashboard](Images/Cloud Kitchen Dashboard.png)
+![Overview Dashboard](Images/cloud_kitchen_dashboard.png)
 
 ## Dashboard Preview version2
 
-![Overview Dashboard](images/Dashboard v2.png)
+![Overview Dashboard](images/Dashboard_v2.png)
 
 ---
 
