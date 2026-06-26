@@ -309,7 +309,7 @@ This dashboard enables stakeholders to:
 
 ## Dashboard Preview version2
 
-![Overview Dashboard](images/dashboard_version_two.png)
+![Overview Dashboard](Images/dashboard_v2.png)
 
 ---
 
