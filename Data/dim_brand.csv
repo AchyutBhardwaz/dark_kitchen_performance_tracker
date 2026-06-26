@@ -1,0 +1,7 @@
+brand_id,brand_name,cuisine_type,avg_prep_time_min,menu_complexity_score,launch_date,brand_status
+1,Burger Brand,Fast Food,15,3,2022-01-01,Active
+2,Pizza Brand,Italian,20,4,2022-01-01,Active
+3,Biryani Brand,Indian,25,5,2022-03-01,Active
+4,Chinese Brand,Chinese,18,4,2022-02-01,Active
+5,Healthy Bowl Brand,Healthy,12,3,2022-04-01,Active
+6,Dessert Brand,Desserts,10,2,2022-06-01,Active

@@ -1,0 +1,11 @@
+time_slot_id,slot_name,start_hour,end_hour,day_type
+1,Breakfast,7,10,Weekday
+2,Breakfast,7,10,Weekend
+3,Brunch,10,12,Weekday
+4,Brunch,10,12,Weekend
+5,Lunch,12,15,Weekday
+6,Lunch,12,15,Weekend
+7,Evening Snack,15,18,Weekday
+8,Dinner,18,22,Weekday
+9,Dinner,18,22,Weekend
+10,Late Night,22,2,Weekend

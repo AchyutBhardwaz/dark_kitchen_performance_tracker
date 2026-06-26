@@ -1,0 +1,6 @@
+zone_id,zone_name,distance_km_band,avg_delivery_time_min,zone_density
+1,Zone A,0-2 km,18,High
+2,Zone B,2-4 km,26,High
+3,Zone C,4-5 km,35,Medium
+4,Zone D,5-8 km,52,Low
+5,Zone E,8-12 km,68,Low
